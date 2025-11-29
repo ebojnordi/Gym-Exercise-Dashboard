@@ -33,9 +33,9 @@ Open GymExerciseDashboard.pbix in Power BI Desktop.
 Explore the interactive dashboard!
 
 
-##🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/GymExerciseDashboard.png)
 
 
